@@ -19,9 +19,22 @@ Have is designed for the productive age of 15-64 years old include men and women
 
 ## Screenshots!
 
-![Home Menu](https://github.com/intana21/tes/assets/137795305/48f6bf19-dfbe-4f5e-90d1-84f13204e0ea)
-![Sleep Menu]
-![Activity Menu]
-![Calories Menu]
+- Home Menu
+  
+  ![Home Menu](https://github.com/intana21/tes/assets/137795305/48f6bf19-dfbe-4f5e-90d1-84f13204e0ea)
+- Sleep Menu
+  
+  ![Sleep Menu](https://github.com/intana21/tes/assets/137795305/48f6bf19-dfbe-4f5e-90d1-84f13204e0ea)
+- Activity Menu
+  
+  ![Activity Menu](https://github.com/intana21/tes/assets/137795305/48f6bf19-dfbe-4f5e-90d1-84f13204e0ea)
+- Calorie Menu
+  
+  ![Calories Menu](https://github.com/intana21/tes/assets/137795305/48f6bf19-dfbe-4f5e-90d1-84f13204e0ea)
 
 ## Dependencies
+- [Android KTX](https://developer.android.com/kotlin/ktx)
+- [Lifecycle](https://developer.android.com/jetpack/androidx/releases/lifecycle)
+- [Retrofit](https://square.github.io/retrofit/)
+- [Glide](https://github.com/bumptech/glide)
+- [Tensorflow Lite](https://www.tensorflow.org/lite/android)
