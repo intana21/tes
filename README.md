@@ -6,7 +6,7 @@ HAVE is health management application designed to help users maintain a healthy 
 
 ## Features
 - **Activity Management**: Schedule daily activities and get remainders.
--**Sleep Analysis**: Record and analyze the quality of sleep.
--**Calorie Tracking**: Record and track the calories consumed daily.
--**Health Summaries**: Received personalized health insight based on collected data.
+- **Sleep Analysis**: Record and analyze the quality of sleep.
+- **Calorie Tracking**: Record and track the calories consumed daily.
+- **Health Summaries**: Received personalized health insight based on collected data.
 
